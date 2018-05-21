@@ -1,0 +1,23 @@
+.box{width:600px;
+     height:70px;
+     background-color:lightgray;
+     line-height:70px;}
+
+h1{border-left:3px solid red;}
+
+.box2{width:600px;
+      height:525px;
+      background-color:#EEEEEE;
+      border:2px solid lightgray;}
+
+p{font-size:16px;
+  font-weight:bold;}
+
+.submit{
+    border:1px solid lightgray;
+    padding:4px 10px;
+    color:white;
+    background-color:#bfbfbf;
+    border-radius:5px;
+    border-bottom:solid 2px gray;
+}
